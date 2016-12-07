@@ -11,6 +11,7 @@ body{
     height:1384px;
     width:978px;
     margin: 0 auto;
+    box-shadow: 0 0 2px #aaa;
 }
 .head{
     height:61px;

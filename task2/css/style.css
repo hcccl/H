@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    background-color: #ffffff;
+    font-family:微软雅黑;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.all{
+    height:4554px;
+    width:1280px;
+    margin:0 auto;
+    box-shadow: 0 0 2px #aaa;
+}
+.header{
+    height:68px;
+    width:100%;
+    border-top: 1px solid #767777;
+    border-bottom: 1px solid #767777;
+}
+.l{
+    float:left;
+    width:640px;
+    height:70px;
+}
+.l a{
+    float: left;
+    font-size: 20px;
+}
