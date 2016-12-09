@@ -138,5 +138,43 @@ body{
     width:100%;
     float: left;
     margin-top:50px;
-    background-color:#faf2cc;
+    background-color:#f2f2f2;
+    text-align: center;
+}
+.content4 img{
+    padding:80px 585px 30px 585px;
+    height:110px;
+    width:110px;
+}
+.content4 a{
+    font-size:54px;
+    font-family:黑体;
+    color: #a6a6a6;
+    height:240;
+    width:100%;
+ }
+/*content4到此结束*/
+.content5{
+    height:340px;
+    width:1280px;
+    float: left;
+    background-image: url(../images/10.jpg);
+    text-align: center;
+    font-family:微软雅黑;
+    color: #ffffff;
+    font-size:12px;
+}
+.content5 a{
+    display: block;
+    height:35px;
+    width:100%;
+    margin:50px 0 0 0;
+    font-size:21px;
+}
+.content5 hr{
+    width:28px;
+    font-weight: bold;
+    margin:0 auto 20px auto;
+    border:1px solid #ffffff;
+
 }
