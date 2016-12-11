@@ -176,5 +176,48 @@ body{
     font-weight: bold;
     margin:0 auto 20px auto;
     border:1px solid #ffffff;
-
+}
+.content5 form{
+    width:1000px;
+    height:35px;
+    text-align: center;
+    padding:50px 190px 0 190px;
+    font-family:黑体;
+}
+.content5 select{
+    width: 22%;
+    height:100%;
+    float: left;
+    margin:0 10px;
+    color: #a6a6a6;
+    font-family:黑体;
+}
+.content5 button{
+    width: 22%;
+    height:100%;
+    float: left;
+    margin:0 10px;
+    background: #e74f4d;
+    color: #ffffff;
+    font-family:黑体;
+    border:none;
+}
+/*content5到此结束*/
+.content6{
+    float: left;
+    height:500px;
+    width:1080px;
+    border:1px solid #e74f4d;
+    padding:0 100px;
+}
+.a1{
+    height:400px;
+    width:268px;
+    border:1px solid #000000;
+    float: left;
+}
+.a1 img{
+    height:350px;
+    width:248px;
+    padding:10px 10px;
 }
