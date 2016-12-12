@@ -207,17 +207,96 @@ body{
     float: left;
     height:500px;
     width:1080px;
-    border:1px solid #e74f4d;
-    padding:0 100px;
+    padding:100px 100px 0;
+    background-color: #f2f2f2;
 }
 .a1{
     height:400px;
     width:268px;
-    border:1px solid #000000;
     float: left;
 }
 .a1 img{
-    height:350px;
-    width:248px;
+    height:310px;
+    width:200px;
     padding:10px 10px;
+    margin:0 23px;
+    float: left;
+    border:1px solid #a6a6a6;
+    background-color: #ffffff;
 }
+.a1 a{
+    float: left;
+    height:40px;
+    width:268px;
+    font-family:微软雅黑;
+    text-align: center;
+    padding-top:10px;
+}
+#ts{
+    padding:0 0 10px 0;
+    font-size:21px;
+    width:268px;
+    line-height:23px;
+    display: block;
+    word-spacing:35px;
+}
+.a1 span{
+    font-size:13px;
+    color: #808080;
+    letter-spacing:0;
+}
+/*content6到此结束*/
+.content7{
+    height:565px;
+    width:1280px;
+    float: left;
+    border:1px solid #e74f4d;
+    text-align: center;
+    color: #ffffff;
+    font-family:宋体;
+}
+.l1{
+    height:565px;
+    width:850px;
+    float: left;
+    background-image: url("../images/15.jpg");
+}
+.l2{
+    height:305px;
+    width:500px;
+    margin:130px 175px;
+    font-family:微软雅黑;
+}
+#a1{
+    font-size:50px;
+    width:500px;
+    height:66px;
+    display: block;
+}
+#a2{
+    display: block;
+    width:500px;
+    height:130px;
+    font-size:158px;
+    line-height:120px;
+}
+#a3{
+    display: block;
+    font-size:22px;
+    width:500px;
+    height:29px;
+}
+.l3{
+    height:565px;
+    width:428px;
+    float: left;
+    border:1px solid #000000;
+}
+#a4{
+    height:305px;
+    width:228px;
+    margin: 130px 100px;
+    border:1px solid #75b86b;
+    color: #000;
+}
+
