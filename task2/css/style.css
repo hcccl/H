@@ -450,24 +450,20 @@ body{
 .a4-tu{
     height:0;
     width:0;
-    border:60px solid transparent;
+    border:20px solid transparent;
     border-left-color: #ffffff;
     margin-top:200px;
-    margin-bottom: 200px;
     margin-left:2px;
-
 }
 /*content8到此结束*/
 .content9{
-    height:600px;
+    height:650px;
     width:1280px;
-    border:1px solid #418c59;
     float: left;
 }
 .content9-big{
-    height:450px;
+    height:500px;
     width:1000px;
-    border:1px solid #11456b;
     margin:100px auto;
     text-align: center;
 }
@@ -489,9 +485,8 @@ body{
     color: #a6a6a6;
 }
 .content9-big-left{
-    height:298px;
+    height:348px;
     width:30%;
-    border:1px solid #11456b;
     float: left;
     margin-top:50px;
     text-align: left;
@@ -511,9 +506,39 @@ body{
     color: #a6a6a6;
 }
 .content9-big-right{
-    height:298px;
+    height:333px;
     width:60%;
-    border:1px solid #000000;
     float: right;
     margin-top: 50px;
+    padding-top:15px;
 }
+.content9-big-right-top{
+    height:40px;
+    width:40%;
+    background-color: #a6a6a6;
+    float: left;
+}
+.content9-big-right input{
+    height:40px;
+    width:40%;
+    float: left;
+    background-color: #F5F5F5;
+    border:none;
+    margin:15px 0 0 20px;
+    font-size:12px;
+    font-family:黑体;
+    color: #808080;
+    padding-left:20px;
+}
+.content9-big-right button{
+    height:40px;
+    width:540px;
+    float: left;
+    background-color: #F5F5F5;
+    border:none;
+    margin:15px 0 0 20px;
+    font-size:14px;
+    font-family:黑体;
+    cursor: pointer;
+}
+
