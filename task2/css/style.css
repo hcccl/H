@@ -547,7 +547,7 @@ body{
     height:350px;
     float: left;
     border:1px solid #e74f4d;
-    background-color: #696969;
+    background-color: #A9A9A9;
     margin-top: 50px;
     text-align: center;
     color: #ffffff;
@@ -556,13 +556,17 @@ body{
     font-size:22px;
     font-family:微软雅黑;
     padding-top:80px;
+    padding-bottom:5px;
     text-align: center;
 }
 .content10-mi{
     font-size:11px;
+    line-height:20px;
     font-family:微软雅黑;
     text-align: center;
 }
 .content10 button{
-
+    height:20px;
+    width:100px;
+    float: left;
 }
