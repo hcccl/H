@@ -11,7 +11,7 @@
     <div class="header">
         <div class="l">
             <img src="images/1.png">
-            <a>新世界</a>
+            <a name="xinshijie" href="index.html">新世界</a>
         </div>
         <div class="r">
             <a><span>首页</span></a>
@@ -19,15 +19,15 @@
             <a><span>项目介绍</span></a>
             <a><span>爱心社区</span></a>
             <a><span>关于我们</span></a>
-            <a style="color: #e74f4d;;"><span><img src="images/3.png"><p>登录</p></span></a>
+            <a style="color: #e74f4d;"><span><img src="images/3.png"><p>登录</p></span></a>
         </div>
     </div>
     <div class="content1">
         <a>
-            <span id="span1">Time of new life</span><br>
-            <span id="span2">新世界，年轻的人们让我们一起<br>
-                体验新生活，享受新生活</span><br>
-            <span id="span3">开始体验</span>
+            <p class="span1">Time of new life</p><br>
+            <p class="span2">新世界，年轻的人们让我们一起<br>
+                体验新生活，享受新生活</p>
+            <p class="span3">开始体验</p>
         </a>
     </div>
     <div class="content2">
@@ -67,7 +67,7 @@
             <select class="city">
                 <option>城市</option>
             </select>
-            <button type="button">搜  索
+            <button type="button" style="outline:none;">搜  索
         </form>
     </div>
     <div class="content6">
@@ -152,7 +152,16 @@
         <div class="content10-top">联系我们</div>
         <div class="content10-mi">为了更好的获取我们最新的产品资讯，您可以留下您的电子邮箱快速订阅我们的产品资讯<br>
         也可以通过以下任何方式关注我们动态</div>
-        <input value="nihao" type="text"><button type="submit" value="tijiao">tijiao</button>
+        <input value="someone@email.com" type="text"
+               onmousemove="if(this.value=='someone@email.com'){this.value='';}"
+               onmouseout="if(this.value==''){this.value='someone@email.com';}"/><!--鼠标经过输入框时清空文本框，移除时恢复默认文本框文字--><button type="submit" value="tijiao">提 交</button>
+        <div class="content10-app">
+            <img src="images/QQ.png">
+            <img src="images/weibo.png">
+            <img src="images/twitter.png">
+            <img src="images/weixin.png">
+        </div>
+        <div class="content10-bottom"><a>@2017新世界</a><a class="right" href="#xinshijie">Back to top</a></div>
     </div>
 </div>
 </body>
