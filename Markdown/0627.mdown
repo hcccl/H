@@ -1,0 +1,7 @@
+>###MarkDown###
+>*Markdown是一个 Web 上使用的文本到HTML的转换工具，可以通过简单、易读易写的文本格式生成__结构化__的HTML文档。目前 [github](https://github.com/ "行内式")、[Stackoverflow][] 等网站均支持这种格式。*   
+1.   Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。  
+2.   Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格、脚注、内嵌HTML等等），这些功能原初的Markdown尚不具备，它们能让Markdown转换成更多的格式，例如LaTeX，Docbook。![简单易用的MarkDown](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530267191086&di=19bcb5c95680454f4a67cbc44e84171a&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D624108789%2C3934435186%26fm%3D214%26gp%3D0.jpg "图片引至百度")   
+3.   **Markdown增强版中比较_有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如Pandoc；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动.**  
+ `alert('Hello World')`
+[Stackoverflow]: https://stackoverflow.com/ "跳转"
